@@ -1,0 +1,36 @@
+{
+  "files": {
+    "commands/Administration/warn.js": [
+      {
+        "id": "4ec6fd9e-9561-42b1-880d-0c8802cd2d11",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "commands/econmy/weekly.js": [
+      {
+        "id": "3b6debe9-6533-4a14-975c-5f3b6818134a",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "commands/info/help.js": [
+      {
+        "id": "074a6d96-0248-41f8-85a7-20ee4f0cb397",
+        "line": 1,
+        "version": 560,
+        "index": 0
+      }
+    ],
+    "index.js": [
+      {
+        "id": "bf320cff-5cee-4089-9faf-0b7ae50c54fb",
+        "line": 57,
+        "version": 17,
+        "index": 1120
+      }
+    ]
+  }
+}
